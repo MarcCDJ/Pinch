@@ -11,6 +11,7 @@
 		86359BBA2AB34F4400594907 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86359BB92AB34F4400594907 /* ContentView.swift */; };
 		86359BBC2AB34F4500594907 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 86359BBB2AB34F4500594907 /* Assets.xcassets */; };
 		86359BBF2AB34F4500594907 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 86359BBE2AB34F4500594907 /* Preview Assets.xcassets */; };
+		865B1A402AB9C46600DF782D /* InfoPanelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 865B1A3F2AB9C46600DF782D /* InfoPanelView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		86359BB92AB34F4400594907 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		86359BBB2AB34F4500594907 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		86359BBE2AB34F4500594907 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		865B1A3F2AB9C46600DF782D /* InfoPanelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoPanelView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 				86359BC72AB357FE00594907 /* Model */,
 				86359BC62AB357BE00594907 /* View */,
 				86359BB72AB34F4400594907 /* PinchApp.swift */,
+				865B1A3F2AB9C46600DF782D /* InfoPanelView.swift */,
 				86359BC52AB3577800594907 /* Screen */,
 				86359BBB2AB34F4500594907 /* Assets.xcassets */,
 				86359BBD2AB34F4500594907 /* Preview Content */,
@@ -163,6 +166,7 @@
 			files = (
 				86359BBA2AB34F4400594907 /* ContentView.swift in Sources */,
 				86359BB82AB34F4400594907 /* PinchApp.swift in Sources */,
+				865B1A402AB9C46600DF782D /* InfoPanelView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
